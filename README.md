@@ -1,1 +1,1 @@
-# PythonDjango
+# Experiment with Python Django framework for AI applications
